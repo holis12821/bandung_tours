@@ -1,6 +1,6 @@
 # bandung_tours
 
-A new Flutter project.
+## A Flutter project is showcasing good tourist attractions in bandung, west java indonesia.
 
 ## Getting Started
 
